@@ -30,7 +30,7 @@ on:
         default: "all"
         type: choice
         options:
-          - smart-am40
+          - kylin3399
       openwrt_kernel:
         description: "Select kernel version"
         required: false
